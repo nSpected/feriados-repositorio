@@ -1,0 +1,33 @@
+[
+    {
+        "data": "2024-03-23",
+        "nome": "Aniversário de Florianópolis",
+        "tipoDeFeriado": "Municipal",
+        "unidadeFederativa": "SC",
+        "municipio": "Florianópolis"
+    },
+
+    {
+        "data": "2024-03-29",
+        "nome": "Sexta-Feira Santa",
+        "tipoDeFeriado": "Municipal",
+        "unidadeFederativa": "SC",
+        "municipio": "Florianópolis"
+    },
+
+    {
+        "data": "2024-05-30",
+        "nome": "Corpus Christi",
+        "tipoDeFeriado": "Municipal",
+        "unidadeFederativa": "SC",
+        "municipio": "Florianópolis"
+    },
+
+    {
+        "data": "2024-11-02",
+        "nome": "Finados",
+        "tipoDeFeriado": "Municipal",
+        "unidadeFederativa": "SC",
+        "municipio": "Florianópolis"
+    }
+]
