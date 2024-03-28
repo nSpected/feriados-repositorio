@@ -1,0 +1,28 @@
+[
+    {
+        "data": "2024-02-11",
+        "nome": "Emancipação Municipal",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Antônio Prado"
+    },
+
+    {
+        "data": "2024-05-26",
+        "nome": "Nossa Senhora de Caravaggio",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Antônio Prado"
+    },
+
+    {
+        "data": "2024-05-30",
+        "nome": "Corpus Christi",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Antônio Prado"
+    }
+]

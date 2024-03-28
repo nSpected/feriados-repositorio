@@ -1,0 +1,37 @@
+[
+    {
+        "data": "2024-02-16",
+        "nome": "Dia do Município",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Agudo"
+    },
+
+    {
+        "data": "2024-05-30",
+        "nome": "Corpus Christi",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Agudo"
+    },
+
+    {
+        "data": "2024-07-25",
+        "nome": "Dia do Colono",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Agudo"
+    },
+
+    {
+        "data": "2024-10-31",
+        "nome": "Dia da Reforma",
+        "tipoDeFeriado": "Municipal",
+        "país": "Brasil",
+        "unidadeFederativa": "RS",
+        "municipio": "Agudo"
+    }
+]
