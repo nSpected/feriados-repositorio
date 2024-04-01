@@ -27,3 +27,31 @@ Ainda em desenvolvimento... 🏗️🏗️🚧
     }
 ]
 ```
+
+## Obtendo Jsons do Repositório via HTTP GET:
+### Observações:
+- O .json no final da URL é obrigatório.
+
+### Feriados Nacionais:
+- ANO: Número representando o ano, atualmente (01/04/2024) apenas suporta 2024.
+- PAÍS: Nome do país em snake_case, sem acentuação.
+```
+https://raw.githubusercontent.com/nSpected/feriados-repositorio/main/feriados/v1/ANO/PAÍS/nacionais.json
+```
+
+### Feriados Estaduais:
+- ANO: Número representando o ano, atualmente (01/04/2024) apenas suporta 2024.
+- PAÍS: Nome do país em snake_case, sem acentuação.
+- ESTADO: Nome do estado em snake_case, sem acentuação.
+```
+https://raw.githubusercontent.com/nSpected/feriados-repositorio/main/feriados/v1/ANO/PAÍS/estaduais/ESTADO.json
+```
+
+### Feriados Municipais:
+- ANO: Número representando o ano, atualmente (01/04/2024) apenas suporta 2024.
+- PAÍS: Nome do país em snake_case, sem acentuação.
+- ESTADO: Nome do estado em snake_case, sem acentuação.
+- MUNICÍPIO: Nome do município em snake_case, sem acentuação.
+```
+https://raw.githubusercontent.com/nSpected/feriados-repositorio/main/feriados/v1/ANO/PAÍS/municipais/ESTADO/MUNICÍPIO.json
+```
